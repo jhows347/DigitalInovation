@@ -1,0 +1,15 @@
+D:\GitPessoal\TutorialNetCore\Filmes\bin\Debug\net6.0\Filmes.exe
+D:\GitPessoal\TutorialNetCore\Filmes\bin\Debug\net6.0\Filmes.deps.json
+D:\GitPessoal\TutorialNetCore\Filmes\bin\Debug\net6.0\Filmes.runtimeconfig.json
+D:\GitPessoal\TutorialNetCore\Filmes\bin\Debug\net6.0\Filmes.dll
+D:\GitPessoal\TutorialNetCore\Filmes\bin\Debug\net6.0\ref\Filmes.dll
+D:\GitPessoal\TutorialNetCore\Filmes\bin\Debug\net6.0\Filmes.pdb
+D:\GitPessoal\TutorialNetCore\Filmes\obj\Debug\net6.0\Filmes.csproj.AssemblyReference.cache
+D:\GitPessoal\TutorialNetCore\Filmes\obj\Debug\net6.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitPessoal\TutorialNetCore\Filmes\obj\Debug\net6.0\Filmes.AssemblyInfoInputs.cache
+D:\GitPessoal\TutorialNetCore\Filmes\obj\Debug\net6.0\Filmes.AssemblyInfo.cs
+D:\GitPessoal\TutorialNetCore\Filmes\obj\Debug\net6.0\Filmes.csproj.CoreCompileInputs.cache
+D:\GitPessoal\TutorialNetCore\Filmes\obj\Debug\net6.0\Filmes.dll
+D:\GitPessoal\TutorialNetCore\Filmes\obj\Debug\net6.0\ref\Filmes.dll
+D:\GitPessoal\TutorialNetCore\Filmes\obj\Debug\net6.0\Filmes.pdb
+D:\GitPessoal\TutorialNetCore\Filmes\obj\Debug\net6.0\Filmes.genruntimeconfig.cache
